@@ -19,15 +19,16 @@
 1. **Создать файл Readme.md**
    * Добавить запись файлв в Readme.md
    * Сохранить в редакторе
-```
+```Java script
 <script src="https://localhost/neuro.sdk.min.js"></script>
 ```
+``` JAVA (Maven)
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
   <version>1.0.0</version>
 </dependency>
 ```
-platform :ios, '8.0'
+pod platform :ios, '8.0'
 pod "neuro-ios-sdk"
 ```
