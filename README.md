@@ -19,6 +19,8 @@
 1. **Создать файл Readme.md**
    * Добавить запись файлв в Readme.md
    * Сохранить в редакторе
+
+   * Написать команду
 ```Java script
 <script src="https://localhost/neuro.sdk.min.js"></script>
 ```
